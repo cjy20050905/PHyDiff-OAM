@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Checkpoints & model weights
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
