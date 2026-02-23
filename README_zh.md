@@ -276,7 +276,7 @@ os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
   title={PHyDiff-OAM: Physics-aligned Diffusion for OAM Radar Imaging},
   author={Dryoung},
   year={2025},
-  url={https://github.com/Dryoung/PHyDiff-OAM}
+  url={https://github.com/cjy20050905/PHyDiff-OAM}
 }
 ```
 
@@ -301,7 +301,7 @@ os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 如有问题或建议，请通过以下方式联系：
 
 - Email: 3241347200@qq.com
-- GitHub Issues: [提交问题](https://github.com/Dryoung/PHyDiff-OAM/issues)
+- GitHub Issues: [提交问题](https://github.com/cjy20050905/PHyDiff-OAM/issues)
 
 ---
 

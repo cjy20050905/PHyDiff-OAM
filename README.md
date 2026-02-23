@@ -276,7 +276,7 @@ If this project helps your research, please consider citing:
   title={PHyDiff-OAM: Physics-aligned Diffusion for OAM Radar Imaging},
   author={Dryoung},
   year={2025},
-  url={https://github.com/Dryoung/PHyDiff-OAM}
+  url={https://github.com/cjy20050905/PHyDiff-OAM}
 }
 ```
 
@@ -301,7 +301,7 @@ This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) fi
 For questions or suggestions, please contact:
 
 - Email: 3241347200@qq.com
-- GitHub Issues: [Submit Issue](https://github.com/Dryoung/PHyDiff-OAM/issues)
+- GitHub Issues: [Submit Issue](https://github.com/cjy20050905/PHyDiff-OAM/issues)
 
 ---
 
